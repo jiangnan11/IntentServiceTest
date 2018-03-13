@@ -7,6 +7,8 @@ import android.util.Log;
 
 /**
  * Created by lihao on 2018/3/13.
+ *
+ * http://blog.csdn.net/lmj623565791/article/details/47143563
  */
 
 public class UploadImgService extends IntentService {
